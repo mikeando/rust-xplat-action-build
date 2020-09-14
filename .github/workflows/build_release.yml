@@ -40,7 +40,7 @@ jobs:
           - name: windows
             os: windows-latest
             artifact_name: xplat.exe
-            asset_name: xplat-windows
+            asset_name: xplat-windows.exe
           - name: macos
             os: macos-latest
             artifact_name: xplat
